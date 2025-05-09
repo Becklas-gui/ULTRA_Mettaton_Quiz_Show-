@@ -1,1 +1,1 @@
-Cria uma pasta chamada grupo e joga os arquivos dentro
+Cria uma pasta chamada "Grupo" e joga os arquivos dentro
