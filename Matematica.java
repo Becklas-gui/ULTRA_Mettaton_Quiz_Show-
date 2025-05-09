@@ -7,11 +7,11 @@ public class Matematica extends Materia{
     @Override
     public void exibirExplicacao(int random){
         if(random==0){
-            System.out.println("Vai tomar no cu");
+            System.out.println("Explicacao");
         }else if(random==1){
-            System.out.println("Vai tomar no cu 2");
+            System.out.println("Explicacao 2");
         }else if(random==2){
-            System.out.println("Vai tomar no cu 3");
+            System.out.println("Explicacao 3");
         }
     };
 }
